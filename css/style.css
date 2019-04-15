@@ -1611,8 +1611,7 @@ input[type="search"]:focus {
     .main-header-bottom,
     .circle,
     .basket,
-    form
-    {
+    form {
         display: none;
     }
     
@@ -1830,5 +1829,4 @@ input[type="search"]:focus {
     .footer-bottom-wrapper {
         padding: 10px
     }
-    
 }
